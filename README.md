@@ -1,6 +1,6 @@
 #INTRODUCTION
 <br>**Hello, my name is Jeonghun park**
-<br>Studying computer engineering
+<br>Studying computer engineering / data analysis
 
 #CAREER AND QUALIFICATIONS <BR>
 
