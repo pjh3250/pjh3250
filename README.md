@@ -1,4 +1,10 @@
-## Hi there 👋
+#INTRODUCTION
+**Hello my name is Jeonghun park**
+Studying computer engineering
+
+#EMAIL
+pjh3250@yu.ac.kr
+
 
 <!--
 **pjh3250/pjh3250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
