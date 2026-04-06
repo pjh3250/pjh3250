@@ -1,9 +1,9 @@
 #INTRODUCTION
-**Hello my name is Jeonghun park**
-Studying computer engineering
+<br>**Hello my name is Jeonghun park**
+<br>Studying computer engineering
 
 #EMAIL
-pjh3250@yu.ac.kr
+<br>pjh3250@yu.ac.kr
 
 
 <!--
