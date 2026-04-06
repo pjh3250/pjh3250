@@ -2,7 +2,13 @@
 <br>**Hello, my name is Jeonghun park**
 <br>Studying computer engineering / data analysis
 
-#CAREER AND QUALIFICATIONS <BR>
+#Degree
+<br>Department of Computer Engineering, Yeungnam University (Currently enrolled)
+
+#CAREER AND QUALIFICATIONS 
+<br>Adsp
+<br>Linux Master Level 2
+
 
 #EMAIL
 <br>pjh3250@yu.ac.kr
